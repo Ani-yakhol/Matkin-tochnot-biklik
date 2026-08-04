@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+pywin32>=305
+pyinstaller>=5.0
+winshell>=0.6
